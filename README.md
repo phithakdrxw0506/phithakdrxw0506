@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://github.com/phithakdrxw0506/phithakdrxw0506/blob/main/476798265_1781835372658342_7559586984957148684_n.jpg" width="100%" alt="header image" />
+  <img src="https://raw.githubusercontent.com/phithakdrxw0506/phithakdrxw0506/main/476798265_1781835372658342_7559586984957148684_n.jpg" width="200" style="border-radius:50%" alt="My Photo" />
 </p>
 
 <h1 align="center">Hi, I’m Phithakphong Meeboon <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>

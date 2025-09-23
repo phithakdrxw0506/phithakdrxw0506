@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/476798265_1781835372658342_7559586984957148684_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WXx2-ZsxsrMQ7kNvwEEm3wp&_nc_oc=AdlDBvlfdNkG-DqOAs0sQfzi4Mn2ejI5ssTzuz2F1zJuDNfajiK3Q7n-0mxWUearOh-5cNMOfYAJSZxJI7lolQnb&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=oL-gXbFJ8RJTCxPpo2oclQ&oh=00_AfaVZmAdDhufgmBzyq0jFWKT2Eh0RBup0F-s9iOeWXvCdw&oe=68D894B0" width="100%" alt="header image from FB" />
+  <img src="https://raw.githubusercontent.com/phithakdrxw0506/phithakdrxw0506/main/476798265_1781835372658342_7559586984957148684_n.jpg" width="100%" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Phithakphong Meeboon <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>

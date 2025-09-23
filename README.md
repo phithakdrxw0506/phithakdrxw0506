@@ -14,9 +14,6 @@
 ---
 
 ## 🚀 About Me
-<p align="center">
-  <img src="https://raw.githubusercontent.com/phithakdrxw0506/phithakdrxw0506/main/476798265_1781835372658342_7559586984957148684_n.jpg" width="180" style="border-radius:50%" alt="Profile"/>
-</p>
 
 - 🎓 **4th-year IT Student** at Maejo University (Faculty of Science, Major: Information Technology)  
 - 💻 Passionate about **Back-End Development** (Java, Python, Spring Boot, SQL)  

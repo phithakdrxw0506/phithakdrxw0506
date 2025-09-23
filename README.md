@@ -1,26 +1,26 @@
-<!-- Banner / Cover -->
+<!-- Banner / Cover (optional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header" />
 </p>
 
-<!-- Profile Section -->
+<!-- Profile Picture + Intro side-by-side -->
 <table>
   <tr>
-    <td width="250px" align="center">
-      <img src="[https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/476798265_1781835372658342_7559586984957148684_n.jpg](https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/476798265_1781835372658342_7559586984957148684_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WXx2-ZsxsrMQ7kNvwEEm3wp&_nc_oc=AdlDBvlfdNkG-DqOAs0sQfzi4Mn2ejI5ssTzuz2F1zJuDNfajiK3Q7n-0mxWUearOh-5cNMOfYAJSZxJI7lolQnb&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=oL-gXbFJ8RJTCxPpo2oclQ&oh=00_AfaVZmAdDhufgmBzyq0jFWKT2Eh0RBup0F-s9iOeWXvCdw&oe=68D894B0)" width="200" style="border-radius:50%" alt="Profile Picture"/>
+    <td width="260px" align="center">
+      <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/476798265_1781835372658342_7559586984957148684_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WXx2-ZsxsrMQ7kNvwEEm3wp&_nc_oc=AdlDBvlfdNkG-DqOAs0sQfzi4Mn2ejI5ssTzuz2F1zJuDNfajiK3Q7n-0mxWUearOh-5cNMOfYAJSZxJI7lolQnb&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=oL-gXbFJ8RJTCxPpo2oclQ&oh=00_AfaVZmAdDhufgmBzyq0jFWKT2Eh0RBup0F-s9iOeWXvCdw&oe=68D894B0" width="200" style="border-radius:50%" alt="Profile Picture"/>
       <br><br>
       <strong>Phithakphong Meeboon</strong><br/>
-      💻 Back-End Developer <br/>
+      💻 Back-End Developer<br/>
       🎓 IT Student at Maejo University
     </td>
     <td valign="top">
 
-### 👋 Hi, I'm Phithakphong Meeboon  
-- 🎓 **4th-year IT Student** (Information Technology, Maejo University)  
+### Hi 👋, I'm Phithakphong Meeboon
+- 🎓 **4th-year IT Student** at Maejo University (Faculty of Science, Major: Information Technology)  
 - 💻 Passionate about **Back-End Development** (Java, Python, Spring Boot, SQL)  
 - 🛠 Skilled in **RESTful API, SQL optimization, debugging server-side issues**  
-- 🎯 **2025 Goal:** Contribute to impactful software projects  
-- 📫 Contact: **phithakphong0506@gmail.com**  
+- 🎯 **2025 Goal:** Contribute to impactful software projects in real-world teams  
+- 📫 Contact: **phithakphong0506@gmail.com**
 
     </td>
   </tr>
@@ -53,25 +53,17 @@
 ---
 
 ## 🎓 Education
-- **Maejo University** (2022–2024)  
-  Major: Information Technology (Faculty of Science) · GPA: **3.22**
+- **Maejo University** (2022–2024) • Major: Information Technology • GPA: **3.22**
 
-- **Pua School** (2017–2021)  
-  GPA: **3.23**
+- **Pua School** (2017–2021) • GPA: **3.23**
 
 ---
 
 ## 🏅 Training & Certifications
-- **RPA Workflow Automation – Workshop #1** (Jul 2023)  
-- **Agile vs. Traditional Software Development Process** (Jul 2023)  
-- **IT Camp – Maejo University** (Feb 2023)  
-- **Volunteer Camp for Social Development** (Nov 2024)  
-
----
-
-## ✍🏻 Skills
-**Soft Skills:** Team Collaboration · Problem-solving · Adaptability · Time Management  
-**Hard Skills:** RESTful API · SQL Optimization · Debugging · Unit Testing  
+- RPA Workflow Automation – Workshop #1 (Jul 2023)  
+- Agile vs. Traditional Software Development Process (Jul 2023)  
+- IT Camp – Maejo University (Feb 2023)  
+- Volunteer Camp for Social Development (Nov 2024)
 
 ---
 

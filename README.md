@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌍%20Welcome%20to%20My%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Welcome Text -->
-<h2 align="center">🌍 Welcome to My World</h2>
-
 <!-- Profile Picture + Intro side-by-side -->
 <table>
   <tr>

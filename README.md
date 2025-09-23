@@ -89,10 +89,10 @@
   <a href="mailto:phithakphong0506@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_ID">
+  <a href="https://www.facebook.com/dreww.phithakphongg">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_ID">
+  <a href="https://www.instagram.com/drxw_0506/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
 </p>

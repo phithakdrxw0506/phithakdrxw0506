@@ -1,24 +1,30 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/476798265_1781835372658342_7559586984957148684_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WXx2-ZsxsrMQ7kNvwEEm3wp&_nc_oc=AdlDBvlfdNkG-DqOAs0sQfzi4Mn2ejI5ssTzuz2F1zJuDNfajiK3Q7n-0mxWUearOh-5cNMOfYAJSZxJI7lolQnb&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=oL-gXbFJ8RJTCxPpo2oclQ&oh=00_AfaVZmAdDhufgmBzyq0jFWKT2Eh0RBup0F-s9iOeWXvCdw&oe=68D894B0" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header" />
 </p>
 
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm Phithakphong Meeboon</h1>
+<!-- Profile Section -->
+<table>
+  <tr>
+    <td width="250px" align="center">
+      <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/476798265_1781835372658342_7559586984957148684_n.jpg" width="200" style="border-radius:50%" alt="Profile Picture"/>
+      <br><br>
+      <strong>Phithakphong Meeboon</strong><br/>
+      💻 Back-End Developer <br/>
+      🎓 IT Student at Maejo University
+    </td>
+    <td valign="top">
 
-<p align="center">
-  <strong>💻 Back-End Developer | 🎓 IT Student at Maejo University</strong><br/>
-  <em>“Turning ideas into scalable and efficient solutions.”</em>
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 **4th-year IT Student** at Maejo University (Faculty of Science, Major: Information Technology)  
+### 👋 Hi, I'm Phithakphong Meeboon  
+- 🎓 **4th-year IT Student** (Information Technology, Maejo University)  
 - 💻 Passionate about **Back-End Development** (Java, Python, Spring Boot, SQL)  
 - 🛠 Skilled in **RESTful API, SQL optimization, debugging server-side issues**  
-- 🎯 **2025 Goal:** Contribute to impactful software projects in real-world teams  
+- 🎯 **2025 Goal:** Contribute to impactful software projects  
 - 📫 Contact: **phithakphong0506@gmail.com**  
+
+    </td>
+  </tr>
+</table>
 
 ---
 

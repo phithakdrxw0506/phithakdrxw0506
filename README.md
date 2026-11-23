@@ -5,14 +5,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Full-Stack+Development;%3E+Front-End:+HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Next.js;%3E+Back-End:+Java+%C2%B7+Spring+Boot+%C2%B7+Go+%C2%B7+MySQL;%3E+Mobile:+Flutter+%C2%B7+Android+Studio;%3E+Looking+for+a+Developer+internship+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Full-Stack+Development;%3E+Front-End:+HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Next.js;%3E+Back-End:+Java+%C2%B7+Spring+Boot+%C2%B7+Go+%C2%B7+MySQL;%3E+Mobile:+Flutter+%C2%B7+Android+Studio;%3E+Interning+at+Kick2Cloud+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phithakdrxw0506&label=Profile%20views&color=1f6feb&style=flat-square" />
   <img src="https://img.shields.io/badge/Maejo%20University-IT-6A11CB?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Seeking-Developer%20Internship-2ea043?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Intern%20at-Kick2Cloud-2ea043?style=flat-square&labelColor=0D1117" />
 </p>
 
 <!-- Profile Picture + Intro side-by-side -->
@@ -32,7 +32,8 @@
 - 💻 Passionate about **Full-Stack Development** — experience in both front-end and back-end web development (HTML, CSS, JavaScript, React, Next.js, Java, Spring Boot, Go, MySQL)  
 - 🛠 Skilled in **RESTful API, SQL optimization, debugging server-side issues**  
 - 🚀 Fast learner who adapts quickly to new tools and technologies  
-- 🎯 **Goal:** Looking for a **Developer internship** to apply my skills and collaborate on real-world projects  
+- 🏢 **Currently interning at Kick2Cloud Co., Ltd.** (16 Nov 2026 – 5 Mar 2027)  
+- 🎯 **Goal:** Apply my skills and collaborate on real-world projects  
 - 📫 Contact: **phithakdrxw0506@gmail.com**
 
     </td>
@@ -107,6 +108,9 @@
 
 ## 💼 Experience
 ```yaml
+Kick2Cloud Co., Ltd. (16 Nov 2026 – 5 Mar 2027):
+  - Internship
+
 Teacher Assistant (2025 – Present):
   - Teaching assistant for Golang Programming in the "Special Topics in Information Technology" course
   - Assisted in grading assignments for the "Modern Global Society in Daily Life" course

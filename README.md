@@ -1,104 +1,148 @@
-<!-- Banner / Cover with Text -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌍%20Welcome%20to%20My%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:6A11CB&height=220&section=header&text=Phithakphong%20Meeboon&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python&descSize=17&descAlignY=58&animation=fadeIn" />
 </p>
 
-<!-- Profile Picture + Intro side-by-side -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Building+RESTful+APIs;%3E+Optimizing+SQL+queries;%3E+Debugging+server-side+issues;%3E+Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phithakdrxw0506&label=Profile%20views&color=1f6feb&style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Thailand-0D1117?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+## 👨‍💻 `whoami`
+
 <table>
   <tr>
-    <td width="260px" align="center">
-      <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.15752-9/550313948_1080674664272114_937654050872338647_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=K4jpBSNaWQkQ7kNvwFtVawN&_nc_oc=AdkEifw56wZaXfoZrv5kAJiXGY48LmYsEIX-aP95pLlUg42Q25bOUaGkcLJrJuVJyn3VQaMZDYSysXz7JYQ-9JMT&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&oh=03_Q7cD3QGpTXDpVF743o5lDxvsDFNOh9nvVVlt4enaZInvh5A-3g&oe=68FA2BA0" width="200" style="border-radius:50%" alt="Profile Picture"/>
-      <br><br>
-      <strong>Phithakphong Meeboon</strong><br/>
-      💻 Back-End Developer<br/>
-      🎓 IT Student at Maejo University
+    <td width="220" align="center">
+      <img src="https://github.com/phithakdrxw0506.png" width="160" style="border-radius:50%" alt="Profile Picture"/>
+      <br/><br/>
+      <b>Phithakphong Meeboon</b><br/>
+      <sub>IT Student @ Maejo University</sub>
     </td>
-    <td valign="top">
+    <td>
 
-### Hi 👋, I'm Phithakphong Meeboon  
-- 🎓 **4th-year IT Student** (Information Technology, Maejo University)  
-- 💻 Passionate about **Back-End Development** (Java, Python, Spring Boot, SQL)  
-- 🛠 Skilled in **RESTful API, SQL optimization, debugging server-side issues**  
-- 🎯 **2025 Goal:** Contribute to impactful software projects in real-world teams  
-- 📫 Contact: **phithakdrxs0506@gmail.com**
+```java
+public class Phithakphong implements BackEndDeveloper {
 
-    </td>
+    String role      = "Back-End Developer";
+    String education = "B.Sc. Information Technology, Maejo University";
+    String[] stack   = {"Java", "Spring Boot", "Python", "MySQL", "Docker"};
+    String focus     = "RESTful API · SQL Optimization · Debugging";
+    String goal      = "Contribute to impactful software in a real-world team";
+
+    public boolean isOpenToWork() {
+        return true;
+    }
+}
+```
+
+</td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 `tech-stack`
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,docker&theme=dark&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Back--End-Java%20%7C%20Spring%20Boot%20%7C%20Python-1f6feb?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQL%20Optimization-4479A1?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Unit%20Testing-F05032?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-| Project | Tech | Highlights |
-|---------|------|-----------|
-| **Web Project (2022)** | HTML · CSS · JS | 🎮 Built a 2D interactive game using Canvas API |
-| **Database Project (2022)** | MySQL · SQL | 🗄️ Designed relational schemas, optimized queries with JOINs, Subqueries & Triggers |
+## 📌 `featured-projects`
+
+| 📁 Project | 🛠 Tech | ✨ Highlights |
+|:-----------|:--------|:-------------|
+| **Web Project** (2022) | `HTML` `CSS` `JavaScript` | 🎮 2D interactive game built with Canvas API |
+| **Database Project** (2022) | `MySQL` `SQL` | 🗄️ Relational schema design, JOIN/Subquery optimization, Triggers |
 
 ---
 
-## 🎓 Education
-- **Maejo University** (2022–2024)  
-  Major: Information Technology (Faculty of Science) · GPA: **3.22**
+## 📊 `github-stats`
 
-- **Wat Prang School** (2017–2021)  
-  GPA: **3.85**
-
----
-
-## 🏅 Training & Certifications
-- RPA Workflow Automation – Workshop #1 (Jul 2023)  
-- Agile vs. Traditional Software Development Process (Jul 2023)  
-- IT Camp – Maejo University (Feb 2023)  
-- Volunteer Camp for Social Development (Nov 2024)
-
----
-
-## ✍🏻 Skills
-**Soft Skills:** Team Collaboration · Problem-solving · Adaptability · Time Management  
-**Hard Skills:** RESTful API · SQL Optimization · Debugging · Unit Testing  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phithakdrxw0506&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=phithakdrxw0506&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phithakdrxw0506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phithakdrxw0506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=phithakdrxw0506&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phithakdrxw0506&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🎓 `education`
+
+```yaml
+- school: Maejo University
+  years: 2022 – 2024
+  major: Information Technology (Faculty of Science)
+  gpa: 3.22
+
+- school: Wat Prang School
+  years: 2017 – 2021
+  gpa: 3.85
+```
+
+## 🏅 `certifications`
+
+```diff
++ RPA Workflow Automation – Workshop #1                     (Jul 2023)
++ Agile vs. Traditional Software Development Process        (Jul 2023)
++ IT Camp – Maejo University                                (Feb 2023)
++ Volunteer Camp for Social Development                     (Nov 2024)
+```
+
+## ✍🏻 `skills`
+
+<table>
+  <tr>
+    <td><b>⚙️ Hard Skills</b></td>
+    <td><code>RESTful API</code> <code>SQL Optimization</code> <code>Debugging</code> <code>Unit Testing</code></td>
+  </tr>
+  <tr>
+    <td><b>🤝 Soft Skills</b></td>
+    <td><code>Team Collaboration</code> <code>Problem-solving</code> <code>Adaptability</code> <code>Time Management</code></td>
+  </tr>
+</table>
+
+---
+
+## 🤝 `contact`
+
 <p align="center">
   <a href="mailto:phithakphong0506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.facebook.com/dreww.phithakphongg">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/drxw_0506/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
----
+<p align="center"><sub><code>$ echo "Thanks for visiting!" 🚀</code></sub></p>
 
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:1f6feb,100:0D1117&height=120&section=footer" />
 </p>

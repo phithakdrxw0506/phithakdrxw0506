@@ -56,8 +56,8 @@
 - **Maejo University** (2022–2024)  
   Major: Information Technology (Faculty of Science) · GPA: **3.22**
 
-- **Pua School** (2017–2021)  
-  GPA: **3.23**
+- **Wat Prang School** (2017–2021)  
+  GPA: **3.85**
 
 ---
 

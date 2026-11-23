@@ -1,11 +1,11 @@
 <!-- Banner / Cover with Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:6A11CB&height=220&section=header&text=🌍%20Welcome%20to%20My%20World&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Phithakphong%20Meeboon%20%7C%20Back-End%20Developer&descSize=18&descAlignY=62&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:6A11CB&height=220&section=header&text=🌍%20Welcome%20to%20My%20World&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Phithakphong%20Meeboon%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%3E+Back-End+Development;%3E+Java+%C2%B7+Python+%C2%B7+Spring+Boot+%C2%B7+SQL;%3E+RESTful+API+%7C+SQL+optimization+%7C+Debugging" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%3E+Full-Stack+Development;%3E+Front-End:+HTML+%C2%B7+CSS+%C2%B7+JavaScript;%3E+Back-End:+Java+%C2%B7+Python+%C2%B7+Spring+Boot+%C2%B7+SQL;%3E+RESTful+API+%7C+SQL+optimization+%7C+Debugging" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,14 +22,14 @@
       <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.15752-9/550313948_1080674664272114_937654050872338647_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=K4jpBSNaWQkQ7kNvwFtVawN&_nc_oc=AdkEifw56wZaXfoZrv5kAJiXGY48LmYsEIX-aP95pLlUg42Q25bOUaGkcLJrJuVJyn3VQaMZDYSysXz7JYQ-9JMT&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&oh=03_Q7cD3QGpTXDpVF743o5lDxvsDFNOh9nvVVlt4enaZInvh5A-3g&oe=68FA2BA0" width="200" style="border-radius:50%" alt="Profile Picture"/>
       <br><br>
       <strong>Phithakphong Meeboon</strong><br/>
-      💻 Back-End Developer<br/>
+      💻 Full-Stack Developer<br/>
       🎓 IT Student at Maejo University
     </td>
     <td valign="top">
 
 ### 👨‍💻 Hi 👋, I'm Phithakphong Meeboon  
 - 🎓 **4th-year IT Student** (Information Technology, Maejo University)  
-- 💻 Passionate about **Back-End Development** (Java, Python, Spring Boot, SQL)  
+- 💻 Passionate about **Full-Stack Development** (HTML, CSS, JavaScript, Java, Python, Spring Boot, SQL)  
 - 🛠 Skilled in **RESTful API, SQL optimization, debugging server-side issues**  
 - 🎯 **2025 Goal:** Contribute to impactful software projects in real-world teams  
 - 📫 Contact: **phithakdrxs0506@gmail.com**

@@ -20,7 +20,7 @@
 - 💻 Passionate about **Back-End Development** (Java, Python, Spring Boot, SQL)  
 - 🛠 Skilled in **RESTful API, SQL optimization, debugging server-side issues**  
 - 🎯 **2025 Goal:** Contribute to impactful software projects in real-world teams  
-- 📫 Contact: **phithakphong0506@gmail.com**
+- 📫 Contact: **phithakdrxs0506@gmail.com**
 
     </td>
   </tr>

@@ -123,7 +123,7 @@ Teacher Assistant (2025 – Present):
 Maejo University:
   Degree: Bachelor of Science in Information Technology
   Faculty: Science
-  GPA: 3.22
+  GPA: 2.66
 
 Wat Prang School (2015–2021):
   Program: Arts–Language
